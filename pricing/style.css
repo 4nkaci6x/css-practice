@@ -62,7 +62,7 @@ h1 {
   position: absolute;
   top: 5px;
   right: 5px;
-  background: pink;
+  background: rgba(235, 11, 175, 0.421);
   color: #000;
   border: 1px solid rgb(90, 5, 5);
   border-radius: 5px;
